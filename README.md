@@ -3,7 +3,9 @@
 > **Retrieval-Augmented Generation** — Sistem Tanya-Jawab Cerdas Berbasis Dokumen
 
 Starter pack ini adalah **kerangka awal** proyek RAG untuk UTS Data Engineering D3/D4.
-**Sistem Rekomendasi Pasal UU ITE — Sistem Rekomendasi Pasal UU ITE Berdasarkan Input Kasus**.
+
+> **Sistem Rekomendasi Pasal UU ITE — Sistem Rekomendasi Pasal UU ITE Berdasarkan Input Kasus**.
+
 Proyek ini adalah implementasi sistem RAG untuk pemenuhan tugas UTS Data Engineering D4. Sistem ini dikembangkan untuk memproses input berupa deskripsi kasus dari pengguna, kemudian mencari dan merekomendasikan pasal-pasal dalam Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) Tahun 2008 yang paling relevan dengan kasus tersebut.
 
 ---
