@@ -4,7 +4,8 @@
 
 Starter pack ini adalah **kerangka awal** proyek RAG untuk UTS Data Engineering D3/D4.
 
-> **Sistem Rekomendasi Pasal UU ITE — Sistem Rekomendasi Pasal UU ITE Berdasarkan Input Kasus**.
+
+**Sistem Rekomendasi Pasal UU ITE — Sistem Rekomendasi Pasal UU ITE Berdasarkan Input Kasus**.
 
 Proyek ini adalah implementasi sistem RAG untuk pemenuhan tugas UTS Data Engineering D4. Sistem ini dikembangkan untuk memproses input berupa deskripsi kasus dari pengguna, kemudian mencari dan merekomendasikan pasal-pasal dalam Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) Tahun 2008 yang paling relevan dengan kasus tersebut.
 
@@ -54,8 +55,8 @@ rag-uts-kelompok3/
 
 ```bash
 # Clone repository ini
-git clone https://github.com/[username]/rag-uts-[kelompok].git
-cd rag-uts-[kelompok]
+git clone https://github.com/[username]/rag-uts-kelompok3.git
+cd rag-uts-kelompok3
 
 # Buat virtual environment
 python -m venv venv
@@ -79,7 +80,6 @@ cp .env.example .env
 
 Letakkan dokumen sumber Anda di folder `data/`:
 ```bash
-# Contoh: salin PDF atau TXT ke folder data
 cp uu-ite.pdf data/
 cp UU Nomor 19 Tahun 2016.pdf data/
 cp Persoalan-UU-ITE-dan-Pelanggan-Hak-Digital.docx data/
