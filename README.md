@@ -117,6 +117,16 @@ Semua konfigurasi utama ada di `src/config.py` (atau langsung di setiap file):
 
 ---
 
+## 📊 Hasil Evaluasi
+
+*(click link for the Evaluation result)*
+
+https://github.com/anggiwahyu88/rag-uts-UUITE/blob/main/evaluation/hasil_evaluasi.pdf
+
+**Rata-rata Skor:** 4,9  
+**Analisis:** Ketergantungan terhadap kwalitas dokumen, Belum ada evaluasi otomatis 
+
+
 ---
 
 ## 🏗️ Arsitektur Sistem
