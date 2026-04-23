@@ -142,10 +142,10 @@ Semua konfigurasi utama ada di `src/config.py` (atau langsung di setiap file):
 
 *(Masukkan gambar diagram arsitektur di sini)*
 
-```
+
 <img width="714" height="301" alt="arsitektur" src="https://github.com/user-attachments/assets/a55813b7-6b84-4cbd-ba94-5381d26c0cb4" />
 
-```
+
 
 ---
 
